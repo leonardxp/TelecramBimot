@@ -74,7 +74,7 @@ https://youtu.be/awxF6UPs6k8?si=DcEdAnGKV4J5TLvw
 22. شبهة: حقيقة حديث «كتاب الله وسنتي».  https://www.youtube.com/watch?v=TcCchSNn5FA السؤال: لماذا تجعلون هذا الحديث أساسًا للجدل قبل الاتفاق أصلًا على صحته؟ 
 
 
-23. حقيقة عائشة 3 — موت عائشة يوم فرح وسرور عند رسول الله.  https://www.youtube.com/watch?v=Mf5J50RtMOQ  السؤال: إن كانت الرواية باطلة، فلماذا لا تُردّ بالدليل بدل منع النقاش حولها؟"""
+23. حقيقة عائشة 3 — موت عائشة يوم فرح وسرور عند رسول الله.  https://www.youtube.com/watch?v=Mf5J50RtMOQ  السؤال: إن كانت الرواية باطلة، فلماذا لا تُردّ بالدليل بدل منع النقاش حولها؟ """
 
 # --- Mini serveur web pour Render ---
 class SimpleHandler(BaseHTTPRequestHandler):
