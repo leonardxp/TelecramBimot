@@ -106,5 +106,5 @@ def send_message():
 
 while True:
   send_message()
-  time.sleep(60)
+  time.sleep(5)
   
