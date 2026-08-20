@@ -92,7 +92,7 @@ https://youtu.be/awxF6UPs6k8?si=DcEdAnGKV4J5TLvw
 
 28. حقيقة عائشة 4 — كانت تبغض عليًا عليه السلام.  https://www.youtube.com/watch?v=gKns1nsjixU السؤال: كيف تفسرون وقوف عائشة في الجمل ضد علي، مع الإصرار على أن العلاقة بينهما لم تكن تحمل خلافًا سياسيًا حقيقيًا؟   """
 
-
+"""
 # --- Mini serveur web pour Render ---
 class SimpleHandler(BaseHTTPRequestHandler):
 
