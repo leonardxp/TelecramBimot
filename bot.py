@@ -4,7 +4,7 @@ import time
 import requests
 
 TOKEN = "8500370995:AAEyrysu_Ik-Ei28XI6zMJIAUnGl5aC0RpA"
-CHAT_ID = "-1004374575953"
+CHAT_ID = "-1001001025682"
 MESSAGE = """  1. في البخاري الصحابة ارتدوا وانقلبوا على أعقابهم بعد استشهاد رسول الله
 https://youtu.be/awxF6UPs6k8?si=DcEdAnGKV4J5TLvw
 
